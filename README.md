@@ -12,7 +12,7 @@ I'm a Computer Information Systems major with a Computer Science minor at the Un
 
 ## 📄 Cover Letter & Resume
 
-- [View My Resume](link-to-your-resume)
+- [View My Resume](./Myleah%20Jones%20Resume%2011.19.docx)
 
 ## ✨ Skills
 
