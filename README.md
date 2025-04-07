@@ -60,8 +60,9 @@ I'm a Computer Information Systems major with a Computer Science minor at the Un
 
 **System Analysis and Development Projects:**
 
-- **Personal Expense Tracker**  
-  Developed a CLI-based Python app for managing expenses, setting budgets, and tracking savings. Used JSON for data storage and Matplotlib for data visualization.
+- **Personal Expense Tracker**
+   [View Code](https://github.com/myyleah/Portfolio/blob/main/expense_tracker.py)
+  - Developed a CLI-based Python app for managing expenses, setting budgets, and tracking savings. Used JSON for data storage and Matplotlib for data visualization.
 
 - **Library Management System**  
   Built a C program with a menu-driven interface to manage books and borrowers, using arrays and structs for data organization.
@@ -69,6 +70,9 @@ I'm a Computer Information Systems major with a Computer Science minor at the Un
 - **Computer Inventory Management System**  
   Created a GUI application in C# to manage computer objects like Towers, Laptops, and All-In-Ones. Features include XML/Binary serialization, input validation, and List View displays.
 
+- **CareGroup Case Study Analysis**  
+  [Read the Case Study](https://github.com/myyleah/Portfolio/blob/main/Care%20Group%20Case%20Study.docx)  
+  Analyzed the 2002 CareGroup network collapse, identifying root causes such as outdated infrastructure and poor IT governance. Recommended a comprehensive IT governance strategy, risk management practices, and proactive system improvements. Evaluated stakeholder impacts, industry competition, and John Halamka's "10 Lessons Learned" to develop additional resilience measures.
 
 ## 🌟 Fun Facts About Me
 
