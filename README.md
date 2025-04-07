@@ -64,8 +64,9 @@ I'm a Computer Information Systems major with a Computer Science minor at the Un
    [View Code](https://github.com/myyleah/Portfolio/blob/main/expense_tracker.py)
   - Developed a CLI-based Python app for managing expenses, setting budgets, and tracking savings. Used JSON for data storage and Matplotlib for data visualization.
 
-- **Library Management System**  
-  Built a C program with a menu-driven interface to manage books and borrowers, using arrays and structs for data organization.
+- **Library Management System**
+   [View Code](https://github.com/myyleah/Portfolio/blob/main/library.c)  
+   -  Built a C program with a menu-driven interface to manage books and borrowers, using arrays and structs for data organization.
 
 - **Computer Inventory Management System**  
   Created a GUI application in C# to manage computer objects like Towers, Laptops, and All-In-Ones. Features include XML/Binary serialization, input validation, and List View displays.
