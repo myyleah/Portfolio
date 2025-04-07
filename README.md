@@ -10,9 +10,9 @@ I'm a Computer Information Systems major with a Computer Science minor at the Un
   - Collaborate with cross-functional teams to analyze business requirements and improve reporting processes.
   - Gain hands-on experience in data management, business systems analysis, and process optimization.
 
-## 📄 Cover Letter & Resume
+## 📄 Resume
 
-- [View My Resume](./Myleah%20Jones%20Resume%2011.19.docx)
+- [⬇️ Download My Resume](https://raw.githubusercontent.com/myyleah/Portfolio/main/Myleah%20Jones%20Resume%2011.19.docx)
 
 ## ✨ Skills
 
