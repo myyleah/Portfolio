@@ -75,6 +75,9 @@ I'm a Computer Information Systems major with a Computer Science minor at the Un
   [Read the Case Study](https://github.com/myyleah/Portfolio/blob/main/Care%20Group%20Case%20Study.docx)  
   Analyzed the 2002 CareGroup network collapse, identifying root causes such as outdated infrastructure and poor IT governance. Recommended a comprehensive IT governance strategy, risk management practices, and proactive system improvements. Evaluated stakeholder impacts, industry competition, and John Halamka's "10 Lessons Learned" to develop additional resilience measures.
 
+- **CIS 310 SQL Assignment
+- [View Assignment and SQL Code]()
+
 ## 🌟 Fun Facts About Me
 
 I'm from Louisville, Kentucky! Outside of tech, I enjoy learning about new software tools, spending time outdoors, and exploring ways to combine business and technology for real-world solutions.
