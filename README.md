@@ -69,14 +69,15 @@ I'm a Computer Information Systems major with a Computer Science minor at the Un
    -  Built a C program with a menu-driven interface to manage books and borrowers, using arrays and structs for data organization.
 
 - **Computer Inventory Management System**  
-  Created a GUI application in C# to manage computer objects like Towers, Laptops, and All-In-Ones. Features include XML/Binary serialization, input validation, and List View displays.
+  - Created a GUI application in C# to manage computer objects like Towers, Laptops, and All-In-Ones. Features include XML/Binary serialization, input validation, and List View displays.
 
 - **CareGroup Case Study Analysis**  
-  [Read the Case Study](https://github.com/myyleah/Portfolio/blob/main/Care%20Group%20Case%20Study.docx)  
-  Analyzed the 2002 CareGroup network collapse, identifying root causes such as outdated infrastructure and poor IT governance. Recommended a comprehensive IT governance strategy, risk management practices, and proactive system improvements. Evaluated stakeholder impacts, industry competition, and John Halamka's "10 Lessons Learned" to develop additional resilience measures.
+   [Read the Case Study](https://github.com/myyleah/Portfolio/blob/main/Care%20Group%20Case%20Study.docx)  
+  - Analyzed the 2002 CareGroup network collapse, identifying root causes such as outdated infrastructure and poor IT governance. Recommended a comprehensive IT governance strategy, risk management practices, and proactive system improvements. Evaluated stakeholder impacts, industry competition, and John Halamka's "10 Lessons Learned" to develop additional resilience measures.
 
-- **CIS 310 Database Design SQL Assignments
-- [View Assignment and SQL Code](https://github.com/myyleah/Portfolio/blob/main/CIS310_Excercise08Part02_Group05.sql)
+- **CIS 310 Database Design SQL Assignments**
+  - [View Assignment and SQL Code](https://github.com/myyleah/Portfolio/blob/main/CIS310_Excercise08Part02_Group05.sql)
+  - [View Assignment and SQL Code](https://github.com/myyleah/Portfolio/blob/main/CIS310_Excercise08Part02_Group05.sql)
 
 ## 🌟 Fun Facts About Me
 
